@@ -2,10 +2,10 @@
 title: FIX
 
 # user name or organization name
-user: yulb2020 
+user: yulb2020
 
 # issue repository
-repository: yulb2020.github.io 
+repository: yulb2020.github.io
 
 # multi-author
 authors: yulb
@@ -13,7 +13,7 @@ authors: yulb
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 7#19bc70417fcdfa35553dc0e6c79539231f11b86 
+token: 5#f33b6dbbafac819fdf30039c572d3a57836ac48
 
 # posts per page
 perpage: 10
