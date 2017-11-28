@@ -1,0 +1,30 @@
+# site title
+title: FIX
+
+# user name or organization name
+user: yulongbin@outlook.com
+
+# issue repository
+repository: yulbBlog
+
+# multi-author
+authors: yulb
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: a6926dd0cbff89c8db7f54cf1d4838009be2c188 
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
