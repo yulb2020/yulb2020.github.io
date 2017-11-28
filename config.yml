@@ -2,7 +2,7 @@
 title: FIX
 
 # user name or organization name
-user: yulongbin@outlook.com
+user: yulb2020 
 
 # issue repository
 repository: yulb2020.github.io 
@@ -13,7 +13,7 @@ authors: yulb
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 719bc70417fcdfa35553dc0e6c79539231f11b86 
+token: 7#19bc70417fcdfa35553dc0e6c79539231f11b86 
 
 # posts per page
 perpage: 10
